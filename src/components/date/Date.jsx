@@ -29,7 +29,7 @@ export default function Datefestival() {
 
   return (
     <>
-      <div className="bg-[#1E3A8A] w-full absolute z-20 mt-[600px] md:mt-[700px] h-[1100px]">
+      <div id="date" className="bg-[#1E3A8A] w-full absolute z-20 mt-[600px] md:mt-[700px] h-[1100px]">
         <div className="bg-[#F9FAFB] mt-[40px] md:w-[95%] w-[90%] m-auto h-[640px] md:h-[500px] flex flex-col items-center justify-start">
           {/* El texto FECHA está aislado */}
           <h1 className="text-center text-6xl font-medium text-[#1F2937] mt-[20px]">

@@ -9,7 +9,7 @@ export default function Nav() {
       <div className="flex-1 flex justify-start gap-2">
         <Ahref goto="Inicio" url="/" />
         <Ahref goto="Fecha" url="/#date" />
-        <Ahref goto="Lugar" url="/#place" />
+        <Ahref goto="Lugar" url="/#date" />
         <button className="text-white absolute hidden md:block cursor-pointer top-4 right-8 bg-[#f3ef13] px-5 py-3">
           Entradas
         </button>
