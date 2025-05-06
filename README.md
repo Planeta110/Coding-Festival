@@ -1,7 +1,6 @@
 # Coding Festival
 
-<img src="https://raw.githubusercontent.com/Planeta110/proyect-images/main/coding-festival/demostration.gif
-">
+![Gif del proyecto](https://raw.githubusercontent.com/Planeta110/proyect-images/main/coding-festival/demostration.gif)
 
 [https://coding-festival.vercel.app/](https://coding-festival.vercel.app/)
 
